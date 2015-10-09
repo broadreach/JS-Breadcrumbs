@@ -47,3 +47,5 @@ function capitalize(lowerCaseString) {
 	return capitalizedString;
 
 }
+
+window.onload = urlToBreadcrumbs;
